@@ -7,3 +7,4 @@ Module: Radar RFBeam - KMC-1 - https://rfbeam.ch/product/k-mc1-radar-transceiver
 
 Flow chart:
 
+![Flowchart Diagram](docs/flowchart.png)
