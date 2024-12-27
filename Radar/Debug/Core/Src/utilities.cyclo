@@ -1,0 +1,14 @@
+../Core/Src/utilities.c:22:6:SystemClock_Config	4
+../Core/Src/utilities.c:95:6:USART3_UART_Init	2
+../Core/Src/utilities.c:124:5:_write	1
+../Core/Src/utilities.c:134:6:ADC1_Init	4
+../Core/Src/utilities.c:188:6:ADC2_Init	3
+../Core/Src/utilities.c:236:6:DAC_Init	4
+../Core/Src/utilities.c:276:6:TIM2_Init	4
+../Core/Src/utilities.c:318:6:TIM1_Init	4
+../Core/Src/utilities.c:361:6:TIM3_Init	4
+../Core/Src/utilities.c:403:6:TIM8_Init	4
+../Core/Src/utilities.c:445:6:USART2_UART_Init	2
+../Core/Src/utilities.c:460:6:GPIO_Init	1
+../Core/Src/utilities.c:495:6:DMA_Init	1
+../Core/Src/utilities.c:518:6:Error_Handler	1

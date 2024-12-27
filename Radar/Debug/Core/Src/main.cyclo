@@ -1,0 +1,5 @@
+../Core/Src/main.c:65:5:main	6
+../Core/Src/main.c:124:6:processBuffer	3
+../Core/Src/main.c:143:6:sendBuffer	2
+../Core/Src/main.c:154:6:HAL_ADC_ConvCpltCallback	2
+../Core/Src/main.c:163:6:HAL_UART_TxCpltCallback	2
