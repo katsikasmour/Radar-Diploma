@@ -1,0 +1,9 @@
+\BOOKMARK [2][-]{subsection.1.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.2}{Background}{}% 2
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Doppler\040radar}{subsection.1.2}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.2}{FFT}{subsection.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.3}{Architecture\040of\040the\040system}{}% 5
+\BOOKMARK [3][-]{subsubsection.1.3.1}{System\040overview}{subsection.1.3}% 6
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Vehicle\040counting\040algorithm\040from\040CW\040radar\040output}{subsection.1.3}% 7
+\BOOKMARK [2][-]{subsection.1.4}{Results}{}% 8
+\BOOKMARK [2][-]{subsection.1.5}{Conclusions}{}% 9
